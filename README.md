@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Madhumitha
 
-<!--
-**Madhumitha7506/Madhumitha7506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSC Computer Science Student  
+💻 Interested in Web Development  
+📊 Learning Data Analysis  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Excel
+- Power BI
+- Python
+- Data Structure and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Random Quote Generator
+- Edu Tutor AI
+- digital-portfolio
+- digital voting system
+- More projects coming soon 🚀
+
+## Connect with me
+GitHub: https://github.com/Madhumitha7506
