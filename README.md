@@ -18,6 +18,7 @@
 - Edu Tutor AI
 - digital-portfolio
 - digital voting system
+- smart task manager
 - More projects coming soon 🚀
 
 ## Connect with me
